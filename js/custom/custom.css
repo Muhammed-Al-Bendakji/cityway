@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px) {
+.col-xs-1 {
+    visibility: hidden;
+    clear: both;
+    display: none;
+    float: left;
+}
+}
