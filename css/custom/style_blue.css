@@ -90,6 +90,40 @@
     color: white !important;
 }
 
+.parent{
+    letter-spacing: 1px;
+    color: #666666;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.parentMid{
+    letter-spacing: 1px;
+    color: #f3f3f3;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.pricelistleft{
+    display: inline-block;
+    width: 85%;
+    margin: 0px;
+  }
+ 
+.pricelistright{
+    display: inline-block;
+    float: right;
+    width: 15%;
+    margin: 0px;
+  }
+
 .navbar input[type="checkbox"],
 .navbar .hamburger-lines{
     display: none;
